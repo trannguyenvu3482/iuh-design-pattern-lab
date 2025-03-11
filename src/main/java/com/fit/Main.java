@@ -84,6 +84,7 @@ public class Main {
         System.out.println("2. Method With Design Pattern: State");
         System.out.println("3. Method With Design Pattern: Strategy");
         System.out.println("4. Method With Design Pattern: Decorator");
+        System.out.println("5. Array sort using Decorator pattern");
         System.out.print("Enter your choice: ");
 
         // Get user's choice
